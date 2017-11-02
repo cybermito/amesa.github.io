@@ -1,6 +1,6 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
-description: Insert tagline here
+name: Mi WEB en Jekyll y Git
+url: https://mi-web-personal.github.com
+description: Template de Jekyll para webs en Github
 
 permalink: /themes/:title/
 
